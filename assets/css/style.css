@@ -1,0 +1,16 @@
+body {
+  font-family: 'Rajdhani', sans-serif;
+}
+
+div {
+  background-color: rgba(52,69,131,.2);
+}
+
+.crystal {
+  width: 100px;
+  height: auto;
+}
+
+#win-image {
+  width: 60%;
+}
